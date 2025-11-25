@@ -2,6 +2,7 @@
 📐 I’m currently working on a React.js project <br>🤝 I’m looking to collaborate on front-end development and UI/UX improvements<br>🤲 I’m looking for help with optimizing performance in React.js<br>🌱 I’m currently learning advanced React.js concepts<br>💬 Ask me about thriller story writing and JavaScript development<br>⚡ Fun fact I mix tech with storytelling to create immersive experiences!
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guruuxhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guru-prasath-2552b4248) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guru00825) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guru00825@gmail.com) 
 
