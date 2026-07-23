@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=React.js+Developer;Frontend+Enthusiast;JavaScript+Learner;UI%2FUX+Explorer;Thriller+Story+Writer" />
 </p>
 <p align="center">
-  🌐 <b>Portfolio:</b> <a href="https://guruprasath.vercel.app">guruprasath.vercel.app</a>
+  🌐 <b>Portfolio:</b> <a href="https://guruprasath.in">guruprasath.in</a>
 </p>
 
 ## 📊 GitHub Stats
